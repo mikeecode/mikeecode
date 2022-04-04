@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hi! I'm a freelance web developer working with HTML CSS JavaScript and PHP
 
 <!--
 **mikeecode/mikeecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
